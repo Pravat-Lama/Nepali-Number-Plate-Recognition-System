@@ -1,0 +1,26 @@
+<annotation>
+	<folder>positive</folder>
+	<filename>24.jpg</filename>
+	<path>E:\!Classes\L6\Sem-8\Nepali Number Plate Detection Haar Cascade\data\positive\24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>264</width>
+		<height>334</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>259</ymin>
+			<xmax>190</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>
